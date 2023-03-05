@@ -1,7 +1,8 @@
-# Beat Flow
+![BladeflowTitle](https://user-images.githubusercontent.com/93614009/222986931-03811861-7bf6-4eff-a311-09f0f3bca4bc.png)
 Beat Flow is an open-source rhythm game developed using Unity. The game is designed to provide players with an immersive and engaging parkour experience while synchronizing their movements to the beat of the music.
 
-# Getting Started
+# Getting Started!
+
 To get started, you can clone this repository using the following command:
 
 Copy code:
